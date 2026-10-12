@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文写作标准"
+  short_description: "按现代汉语习惯撰写和润色中文，保留原意与事实，使表达准确、自然、清楚"
+  default_prompt: "请使用 $chinese-writing-standard 修改以下中文内容，保留原意、事实和结论限制，使读者顺畅理解。"
